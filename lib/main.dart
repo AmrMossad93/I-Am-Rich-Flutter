@@ -10,6 +10,7 @@ void main() {
           ),
           backgroundColor: Colors.blueGrey[900],
         ),
+        backgroundColor: Colors.blueGrey,
       ),
     ),
   );
